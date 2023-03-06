@@ -1,6 +1,6 @@
 # javascript-Vanilla-\_ShoppingCart
 
-View live demo here using github pages: [live deme]()
+View live demo here using github pages: [live deme](https://hitendra27.github.io/javascript-Vanilla-_ShoppingCart/store.html)
 
 In this project we will learn how to utilize JavaScript to add functionality to a shopping cart.
 We will cover how to check if the document is loaded, and how to query the document for elements by class,
